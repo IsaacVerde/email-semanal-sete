@@ -6,9 +6,9 @@ Este é um template de e-mail marketing totalmente em HTML com CSS inline, criad
 
 ## 🎨 Visualização
 
-(Recomendação: Tire um print do e-mail finalizado e coloque aqui, como `preview.png`, para ter uma referência visual rápida.)
 
-![Pré-visualização do E-mail](COLOQUE_O_PATH_DO_SEU_SCREENSHOT_AQUI)
+
+<img src="https://res.cloudinary.com/db0ztiffv/image/upload/v1754401737/V%C3%ADdeo-dgiffEmailSete_e92yuw.gif" alt="Sua animação" style="display: block; width: 100%; max-width:50px;">
 
 ---
 
