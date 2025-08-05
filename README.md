@@ -6,7 +6,7 @@ Este é um template de e-mail marketing totalmente em HTML com CSS inline, criad
 
 ## 🎨 Visualização
 
-![Imagem de Teste](https://res.cloudinary.com/db0ztiffv/image/upload/v1754401737/V%C3%ADdeo-dgiffEmailSete_e92yuw.gif)
+![Imagem de Teste](https://res.cloudinary.com/db0ztiffv/image/upload/v1754402282/sete_wi5h97.gif)
 ---
 
 ## ✨ Características Principais
